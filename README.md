@@ -1,7 +1,7 @@
 # Тестовое задание для Foxford
 
 <details>
-<summary>**Задание 1: Docker и Nginx**</summary>
+<summary>Задание 1: Docker и Nginx</summary>
 
 Нам нужно развернуть простой статический сайт с помощью Docker.
 
