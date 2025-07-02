@@ -99,7 +99,7 @@
 </details>
 
 
-</details>
+<details>
 <summary>Задание 6: Ansible (по желанию)</summary>
 
 **Задача:** Напиши простой playbook install_tools.yml, который на целевой машине (считаем, что это Ubuntu) устанавливает пакеты mc и htop.
