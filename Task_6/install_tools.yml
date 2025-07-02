@@ -1,0 +1,15 @@
+- name: Install required tools
+  hosts: all
+  become: yes
+
+  tasks:
+    - name: Update apt cache
+      apt:
+        update_cache: yes
+
+    - name: Install Midnight Commander and htop
+      apt:
+        name:
+          - mc
+          - htop
+        state: present
